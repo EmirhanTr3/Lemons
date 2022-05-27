@@ -9,6 +9,6 @@ Do not use Lemons to violate the terms of any service.
 
 To contact me, the developer of Activities, you can mention ! Emirhan#4778 (`410781931727486976`) in the official [Lemons Support discord server](https://discord.gg/EJ8VnFPfQM).
 
-Also see [Lemons' Privacy Policy]().
+Also see [Lemons' Privacy Policy](https://github.com/EmirhanTr3/Lemons/blob/main/PrivacyPolicy.md).
 
 Thanks for using Lemons!
